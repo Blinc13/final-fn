@@ -1,5 +1,10 @@
 [package]
 name = "final_fn"
+description = "Simple final_fn macro, what executes given code when leaving code block"
+readme = "README.md"
+keywords = ["final"]
 version = "0.1.0"
 edition = "2021"
 authors = ["Blinc aka Blin4ik <>https://github.com/Blinc13"]
+
+license = "MIT"
