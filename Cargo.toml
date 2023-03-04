@@ -2,6 +2,7 @@
 name = "final_fn"
 description = "Simple final_fn macro, what executes given code when leaving code block"
 readme = "README.md"
+repository = "https://github.com/Blinc13/final-fn"
 keywords = ["final"]
 version = "0.1.0"
 edition = "2021"
